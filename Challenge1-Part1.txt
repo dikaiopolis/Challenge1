@@ -1,0 +1,8 @@
+Challenge 1
+1. A computer would need to be given each individual instruction to get from point A to the restaurant.  It would need things like go straight for X amount miles, turn left, go straight for X amount of miles, etc.  My friend would only need to know the name of the restaurant and the address if he hadn’t been there before, and then he’d be able to figure out where it’s at.
+
+2. Machine code is the instructions that run directly on the computer hardware.  It is filled with 0’s and 1’s and is unreadable to most people.  Source code is the statements people write in plain text that is translated into machine code.  The CPU is the chip that is the brain of any computer.  It reads the machine code and then tells the computer what to do.  The instructions and data is stored in the machine code.
+
+3. Integrated Development Environments are programs that include text editors but also add features that help in development.  They are useful because the added features make creating things for certain platforms much easier, and they are required for certain platforms, ex. making iOs apps in Xcode is much easier than making them in a regular text editor.
+
+4. Objective-C is a compiled language.  We probably use it because we want our programs to be fast and since we only need our apps to run on a limited number of devices that share a common operating system a compiled language is the best option.  We wouldn’t want an interpreted language because it would be slower and since our apps are not cross-platform there is no need for an interpreted language. 
